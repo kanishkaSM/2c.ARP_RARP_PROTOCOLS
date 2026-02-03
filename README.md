@@ -1,4 +1,7 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+Developed by:S.M.Kanishka
+
+Register no:212225220048
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -70,6 +73,7 @@ c.close()
 ## OUPUT - ARP
 server.py
 <img width="805" height="281" alt="Screenshot 2026-02-03 132216" src="https://github.com/user-attachments/assets/10647c74-c6cb-4739-a277-9aeb6db627b2" />
+
 client.py
 <img width="942" height="211" alt="Screenshot 2026-02-03 132228" src="https://github.com/user-attachments/assets/f7493188-581d-4c7d-a42f-f60c6d5703b8" />
 
