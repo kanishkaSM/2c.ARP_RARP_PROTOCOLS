@@ -126,6 +126,7 @@ c.close()
 ## OUPUT -RARP
 server.py
 <img width="723" height="183" alt="image" src="https://github.com/user-attachments/assets/22b0b416-1a5f-4d7a-930d-3a7f931130ce" />
+
 client.py
 <img width="914" height="213" alt="image" src="https://github.com/user-attachments/assets/e9ace1d6-09c6-42be-a525-51b3b6ce4c6e" />
 
